@@ -1,6 +1,5 @@
-# vashkar55.github.io
+
 My Portfolio
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
